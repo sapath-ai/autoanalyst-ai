@@ -52,5 +52,5 @@ AutoAnalyst AI is a smart screening agent that mimics how top PE/VC analysts rev
 ## ✍️ Built With
 
 Sapath Chakraborty  
-🔗 [linkedin.com/in/yourhandle](https://www.linkedin.com/in/sapath-chakraborty-40b357373/)  
-📹 YouTube Devlog: [youtube.com/@yourchannel](https://www.youtube.com/@Sapath-AI)
+🔗 (https://www.linkedin.com/in/sapath-chakraborty-40b357373/)  
+📹 YouTube Devlog:(https://www.youtube.com/@Sapath-AI)
